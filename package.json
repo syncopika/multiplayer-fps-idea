@@ -1,0 +1,15 @@
+{
+  "name": "fps-idea",
+  "version": "1.0.0",
+  "description": "a multiplayer fps game idea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.17.0"
+  }
+}

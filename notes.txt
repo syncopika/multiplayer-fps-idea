@@ -1,0 +1,7 @@
+https://www.gamedev.net/forums/topic/713800-client-side-prediction-and-player-to-player-collisions/
+https://www.reddit.com/r/gamedev/comments/w8o0nu/how_to_handle_multiplayer_movement_authoritatively/
+https://forums.unrealengine.com/t/collision-and-latency-on-a-multiplayer-coop-game-should-i-fully-trust-the-client/778699/2
+
+
+TODO:
+- red highlight color upon collision not affecting the right object when viewed by NPC
